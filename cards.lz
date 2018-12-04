@@ -1,0 +1,29 @@
+tap:
+    shapes:tee
+    colors:player
+    count:1
+    backs:TAP
+
+gray_tap:
+    shapes:tee
+    colors:bank
+    count:2
+    backs:TAP
+
+starter:
+    shapes:tee,corner,line
+    colors:player
+    count:1
+    backs:1,2,3,4
+
+gray_starter:
+    shapes:tee,corner,line 
+    colors:bank
+    count:2
+    backs:1,2,3,4
+
+goal:
+    shapes:goal,corner
+    colors:bank
+    count:2
+    backs:2,3

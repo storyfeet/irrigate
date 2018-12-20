@@ -8,7 +8,7 @@ config:
 	link-path:../bases/
 
 colors:
-    player:red,green,blue,yellow,fuchsia
+    player:red,green,blue,yellow,fuchsia,white
     bank:gray
 
 

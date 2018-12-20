@@ -1,4 +1,4 @@
-#title:Irrigate - Rules
+#title:Pipe Land - Rules
 #css:"
 th, td{
     border:1px solid black;
@@ -19,46 +19,44 @@ img {
 }
 "
 
+Overview
+--------
+
+In this game players take turns to place, purchase and rotate Land Tiles, in order to get water to as many of their Land Tiles as possible.
+
+At the end of each turn players recieve money for each irrigated Land Tile they own, and normally the first player to successfully irrigate 10 Land Tiles wins. 
+
+    Note : For other victory conditions. See "Ending the Game".
+
 
 Equipment
 ---------
 
 * 1 River Tile
-* 90 Land tiles.
-    - 10 for each of the 4 player colours
-        * 4 "T"s
-        * 3 Corners
-        * 3 Straights
-    - 44 grey tiles as above, but unowned. 
-    - 4 grey (unowned) Goal-Tiles 
+* 114 Land tiles.
+    - 12 for each of the 6 player colours with different pipe shapes on.
+        * "T"s , Corners, Straights, Pluses, and Double Corners.
+    - 38 grey tiles: as above, but unowned. 
+    - 4 grey Goal-Tiles 
 * Coloured Counters
 * Game Currency, able to represent amounts from 0 to 50 for each player
-
-Aim
----
-
-To win the game you must do one of the following.
-
-* Irrigate 10 Land Tiles you own.
-* Irrigate 1 Goal Tile you own.
-* Make 50 Currency
 
 Key Terms 
 ---------
 
-**Land Tile:** Every tile is considered a piece of Land.  The colour of that Land shows who own's it. If someone buys that Land, they place a coloured counter on it to show it is now theirs.
+**Land Tile:** Every tile is considered a piece of Land.  The colour of that Land shows who owns it.
 
-**Unowned Tile:** Some Land Tiles are Grey, this means that they are not owned by any player, but can be bought for a set price. This is shown by placing a coloured counter on the Tile.
+**Unowned Tile:** Some Land Tiles are Grey, this means that they are not owned by any player, but can be bought for a set price. Once a player has paid for a Land Tile, they mark ownership by placing a counter of their colour on it.
 
 **Goal Tile:** A tile, which has a large circle in it. These Lands are valuable, and if you purchase and irrigate just one of these, you win the game. All these tiles say Goal on the back.
 
 **Pipe:** Every tile has a pipe across it, if the pipes connect, then water flows freely across, and can be used to **Irrigate** that Land.
 
-**River Pipe:** The two pipes that reach across the River. These contain the pumps and act as the source of water.
+**River Pipe:** The two or three pipes that reach across the River. These contain the pumps and act as the source of water.
 
 **Irrigate:** If a Land tile you own has a complete path from one of the River Pipes to it, then it is considered Irrigated. At  the end of each turn you receive one Money for it.
 
-**Bank:** The owner of all Land not owned by any other player, and holder of all spare game money.
+**Bank:** The holder of all spare game money. 
 
 
 Setup
@@ -66,13 +64,17 @@ Setup
 
 ### Sort the tile Cards:
 
-Each player chooses a colour, from the available Land Tiles. If there are colours left, then remove all tiles of those colours from the game, keeping only the grey Land Tiles, and those of the chosen colours.
+Each player chooses a colour, from the available Land Tiles. Remove all other coloured Land Tiles, keeping only the grey Land Tiles, and those of the chosen colours.
 
-Separate the cards into groups by their backs (Tap, 1, 2, 3, 4), and shuffle them.
+Separate the cards into groups by their backs (Tap, 1, 2, 3, 4). Shuffle them separately and place these each beside the main play area.
 
 ### Set up the River:
 
-Place the River Tile in the middle of the playing area, and place a "Tap" tile of each playing colour against each of the pipes out from it. In any leftover Pipe spaces, place an Unowned Gray "Tap" Tile.
+The River tile is 2 sided, one side has 2 pipes across it, the other has 3.
+
+Place the River Tile in the middle of the playing area showing 2 pipes for 2-4 players, or 3 pipes for 5-6 players.
+
+Place a "Tap" tile of each playing colour against each of the pipes out from it. In any leftover Pipe spaces, place an Unowned Gray "Tap" Tile.
 
 All of these Tap Tiles are 'T' shaped and the bottom of the 'T' should be touching the River Pipe.
 
@@ -84,7 +86,6 @@ All of these Tap Tiles are 'T' shaped and the bottom of the 'T' should be touchi
 
 Give each player 5 money.
 
-
 How to play
 -----------
 
@@ -92,24 +93,32 @@ How to play
 
 Players take turns clockwise around the table to **Place a Land Tile** from the '1' Pile until all players have 4 Tiles of their colour on the board.
 
+    Note: The '1' Pile has 3 Land Tiles of each color. Plus the Tap Tile makes four.
+
 **Placing a Land Tile**
 
-Draw a tile from the lowest numbered available Pile, and place it adjacent to a tile already on the board.
+Draw a tile from the lowest numbered available Pile, and place it on the board according to the following rules. 
 
-* You *must* place the tile, such that it is possible to connect to the River by rotating only the tiles currently on the board. However it does not have to be connected right now.
-* You *may* not place an Owned (Coloured) Land Tile next to another Land Tile of the same colour.
-* You *may* negotiate money from another player to help help you decide where to place it.
+1. You *must* place the tile adjacent to a Land Tile already on the board.
+2. You *must* place the tile, such that it is possible to connect to the River by rotating only the tiles currently on the board. However it does not have to be connected right now.
+3. You *may* choose the orientation.
+4. You *may not* place an Owned (Coloured) Land Tile next to another Land Tile of the same colour.
+5. Other players *may* offer you money to place it where they want.
+6. You *may* solicit offers.
 
-If the tile is a "Goal Tile" it must be placed diagonally from any other tile on the board. 
+The rules for Goal Tiles are slightly different, making them harder to attain.
 
-    Note: This won't happen in the Early Game, but is part of placing a tile
+If the tile is a "Goal Tile", ignore rules 1 to 3 and instead place it diagonally from, and not touching edges with, any other tile on the board.
 
+    Note: There are no Goal Tiles in the Early Game, but players continue to "Place a Land Tile" throughout the game.
 
 **Ending the Early Game**
 
-On the turn that a player places the last players 4th Tile. That player will be able to play a complete turn.
+When the final "Fourth Tile" is placed, and all players have 4 tiles of their colour on the board. The Early Game ends.
 
-As compensation, each player around the table clockwise from that player, recieves one more money than the last. 
+The Next Player will take a turn as described in the **Main Game**
+
+As compensation for not being that player, the player left of him recieves 1 extra money. Then clockwise around the table each player recieves one more money than the last.
 
 Or -- in a two player game, the other player recieves 2 extra money.
 
@@ -121,93 +130,92 @@ Players take turns clockwise around the table to do each of the following:
 
 * First: Place a Land Tile (As above)
 * Second: Perform any number of actions they can afford (in any order).
-    - Buy Land
-    - Rotate Land 
+    - Rotate a Land Tile
+    - Buy a Land Tile
 * Finally: Recieve Money for all Land Tiles they own that are irrigated.
 
 If a player performs more than one action in a single turn, there is an extra Tax applied. See **Multiple Action Tax** below.
 
-
 ### Action - Rotate a Land Tile
 
-If you own the land tile, you may rotate it to any of the four directions you choose. You may also accept payment from other players to do this to their benefit.
+Select a Land Tile and Rotate it to any of the four orientations you choose.
 
-If you do not own the land, then you must pay the owner for permission to rotate it.  If the owner is another player then you must agree on a price.
+* If you own it, this is Free.
+* If another player owns it, you must pay them what they ask.
+* If it is Unowned, you must pay the bank £3.
 
-If the owner is the Bank, then you must pay the Bank 3 money.
+You may also accept payment, to rotate a tile for someone elses benefit.
 
 ### Action - Buy a Land Tile.
 
+To buy a Land Tile, you must pay its price and then you may place a counter of your colour on it to show it is now yours.
+
 If you wish to buy land from another player, you must agree on a price.
 
-If you wish to buy land from the Bank, the prices are as follows.
+If you wish to buy an Unowned Tile, you must pay the Bank the set price based on the Tile's distance from the nearest River Pipe. (As the Rook flies) 
 
-<table>
-    <tr><th>Group</th><th>Cost</th></tr>
-    <tr><td>River</td><td>14</td></tr>
-    <tr><td>1</td><td>12</td></tr>
-    <tr><td>2</td><td>10</td></tr>
-    <tr><td>3</td><td>8</td></tr>
-    <tr><td>4</td><td>6</td></tr>
-    <tr><td>Goal</td><td>25</td></tr>
-</table>
+Each Unowned tile costs £14 minus £2 for every step between them and the nearest River Pipe. Down to a minumum cost of £4.
 
-Once you have paid the required amount of money, place a counter of your colour on the Land Tile you have bought. This tile is now yours. 
+    Clarification: So the Tap Land Tiles cost £14, and all tiles next to them cost £12. 
+
+Goal Tiles cost £25 wherever they are.
 
 ### Multiple Action Tax
 
-If a player wishes to perform more than one action in a single turn, they must pay a tax to the bank. This is on top of whatever costs they incur performing the action.
+In order to perform more than one action in a turn a player must pay a Multiple Action Tax to the Bank. This is on top of whatever costs they incur performing the action.
 
-The Tax per Action increases by 1 with each extra action starting at a cost of 2 money for the second action.
+    Note: Placing a Land Tile does not count as an action.
 
-The table below shows the total Tax for performing a number of actions in a single turn.
+The Tax per Action increases by £1 with each extra action starting at a cost of £2 for the second action.
 
-<table>
-<tr><th>Action #</th><th>Tax for Action</th><th>Total Tax So Far</th></tr>
-<tr><td>1</td><td>--</td><td>--</td></tr>
-<tr><td>2</td><td>2</td><td>2</td></tr>
-<tr><td>3</td><td>3</td><td>5</td></tr>
-<tr><td>4</td><td>4</td><td>9</td></tr>
-<tr><td>5</td><td>5</td><td>14</td></tr>
-<tr><td>...</td><td>...</td><td>...</td></tr>
-</table>
+    Example: To perform 3 actions, a player must pay £0 + £2 + £3 = £5 Tax
 
 You may not perform an action if you cannot pay the tax.
 
 ### Earn Money
 
-Once a player has completed all the actions they wish to, they earn money for each Irrigated Land Tile they own. 
+For each Irrigated Land Tile the player owns, they receive £1 from the bank.
 
-An Irrigated Land Tile is any Tile from which you can find a pipe path back to the River. This path can be through other players land.
-
-For each Irrigated Land Tile the player owns, they receive 1 money from the bank.
-
-Once they have done this their turn is over.
-
-
-### Withdrawing
-
-Withdrawing allows players to leave the game without disrupting play for the others. Either as a resignation or because of external circumstances.
-
-A player may choose to Pass their turn, by not exploring and not performing any Action.
-
-The first time a player passes they are still considered in the game, and so they still receive income, and other players must negotiate with them to act on their Land.
-
-After a player passes for the second consecutive time, they are considered withdrawn from the game.
-
-    * They do not receive income at the end of their turn.    
-    * Other players may buy from them, and rotate their Land, as though they are the bank.
-
-A player may return to the game, by taking their turn again in the normal order of play. As soon as they do this, they may collect income, and negotiate as before.
-
-If only one player remains in the game, they win. This win is as valid as any other.
+An Irrigated Land Tile is any Tile from which you can find a pipe path back to the River. This path can be through other players' land.
 
 Ending the Game
 ---------------
 
-At the end of any players turn, if they have successfully done any of the following they win the game immediately.
+### Victory Conditions
 
-* Irrigated 10 Land Tiles that they own.
-* Bought and Irrigated 1 End Tile.
-* Collected at least 50 money
+At the end of any player's turn, if they have successfully done any of the following, they win, and the game ends immediately.
+
+* Irrigated 10 Land Tiles that they own
+* Bought and Irrigated 1 Goal Tile
+* Collected at least £50
+
+### No more Tiles
+
+If no player has already won when the last Land Tile is placed, then, after that turn, each player gets one final turn. 
+
+In this turn they do not "Place a Land Tile", and after taking their actions, they recieve double money for their irrigated Land Tiles.
+
+After this the game ends and the player with the most money wins.
+
+
+
+Withdrawing
+--------------
+
+Withdrawing allows players to leave the game without disrupting play for the others. Either as a resignation or because of external circumstances.
+
+A player may choose to Pass their turn, by not "Placing a Land Tile" and not performing any Action.
+
+    Note: If you place a Land Tile, but perform no other action, this is not considered passing.
+
+The first time a player Passes they are still considered in the game, and so they still receive income, and other players must negotiate with them to act on their Land.
+
+After a player passes for the second consecutive time, they are considered withdrawn from the game.
+
+* They do not receive income at the end of their turn.    
+* Other players may buy from them, and rotate their Land, at the same price as Unowned Land.
+
+A player may return to the game, by taking their turn again in the normal order of play. As soon as they do this, they may collect income, and negotiate as before.
+
+If only one player remains in the game, they win. This win is as valid as any other.
 

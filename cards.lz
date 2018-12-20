@@ -14,13 +14,26 @@ starter:
     shapes:tee,corner,line
     colors:player
     count:1
-    backs:1,2,3,4
+    backs:1,2,3
 
 gray_starter:
     shapes:tee,corner,line 
     colors:bank
     count:2
-    backs:1,2,3,4
+    backs:1,2,3
+
+four:
+	shapes:plus,double
+	colors:player
+	count:1
+	backs:4
+
+gray_four:
+	shapes:plus,double
+	colors:bank
+	count:2
+	backs:4
+
 
 goal:
     shapes:goal,corner

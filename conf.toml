@@ -1,0 +1,14 @@
+[config]
+card_loc="cards.lz"
+rows=7
+cols=5
+out-front="out/f"
+out-back="out/b"
+out-pdf="out/all.pdf"
+link-path="../bases/"
+
+[colors]
+player="red,green,blue,yellow,fuchsia,white"
+bank="gray"
+
+

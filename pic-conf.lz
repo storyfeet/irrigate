@@ -1,0 +1,21 @@
+config:
+    card_loc:cards.lz
+    rows:7
+    cols:5
+	out-front:out/f
+	out-back:out/b
+    out-pdf:out/all.pdf
+	link-path:../t_bases/
+
+pics:
+	player:F-Green.png,F-Orange.png,F-Pink.png,F-Purple.png,F-Red.png,F-Yellow.png
+	bank:F-Brown.png
+
+shapes:
+	corner:Pipe-Corner.png
+	plus:Pipe-Cross.png
+	line:Pipe-Line.png
+	tee:Pipe-T.png
+	double:Pipe-2Corner.png
+	goal:Goal.png
+

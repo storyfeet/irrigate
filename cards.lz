@@ -20,23 +20,29 @@ gray_starter:
     shapes:tee,corner,line 
     colors:bank
     count:2
-    backs:1,2,3
+    backs:1,2
 
-four:
-	shapes:plus,double
-	colors:player
-	count:1
-	backs:4
-
-gray_four:
-	shapes:plus,double
+gray_three:
+	shapes:tee,plus,double
 	colors:bank
 	count:2
-	backs:4
+	backs:3
+
+#four:
+#	shapes:plus,double
+#	colors:player
+#	count:1
+#	backs:4
+
+#gray_four:
+#	shapes:plus,double
+#	colors:bank
+#	count:2
+#	backs:4
 
 
-goal:
-    shapes:goal,corner
-    colors:bank
-    count:2
-    backs:2,3
+#goal:
+#    shapes:goal,corner
+#    colors:bank
+#    count:2
+#    backs:2,3

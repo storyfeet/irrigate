@@ -1,0 +1,12 @@
+#!/home/matthew/.cargo/bin/ion
+#Local page
+tempexec -md - -t rules.md -wrap - -rel bases/ > rules.html
+
+#Website
+
+cp bases/*.svg ~/scripts/websites/storyfeet/s/gamefiles/pipeland/
+tempexec -t rules.md --uh -rel /s/gamefiles/pipeland > ~/scripts/websites/storyfeet/root/gamerules/pipeland.md
+
+
+
+
